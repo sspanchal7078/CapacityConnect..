@@ -1,0 +1,6 @@
+{
+  "name": "Capacity Connect",
+  "description": "A centralized digital capacity building and learning management portal. Learn. Train. Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
